@@ -11,9 +11,9 @@ permalink: /resume/
 **AI Math Specialist** *Jun 2024 - Present*\
 Outlier - Baton Rouge, Louisiana - Remote
 
-- Worked on a variety of projects from generating training data in your discipline to advance these models to evaluating performance of models.
-- Trained AI models by rating, reviewing, and rewriting responses from AI models to enhance their accuracy.
-- Improved the relationship between people and their data.
+- Conducted diverse projects, including generating training data and evaluating model performance to enhance AI capabilities in the mathematics discipline.
+- Enhanced AI model accuracy by rating, reviewing, and refining model-generated responses.
+- Strengthened user-data interactions by improving data accessibility and usability.
 
 **Field Technician** *Apr 2024 - May 2024*  
 Tracerco - Baton Rouge, Louisiana

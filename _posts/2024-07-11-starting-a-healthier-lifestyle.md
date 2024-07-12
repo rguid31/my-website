@@ -1,4 +1,9 @@
-# Starting a Healthier Lifestyle
+---
+layout: post
+title: "Starting a Healthier Lifestyle"
+date: 2024-07-11 14:16:00 -0600
+categories: health fitness
+---
 
 Monday begins step 1 to a healthier lifestyle, and I've decided to share with you all the exercise plan that I have created. After doing some research on the internet, I've combined my past experience working out with the intelligence of AI (Copilot) to create a 7-day full body workout plan. I then used Chat GPT (OpenAI) to turn the workout plan into a markdown file so that I could blog it with you all.
 

@@ -20,13 +20,14 @@ I have previously pursued a degree in Chemical Engineering at LSU A&M. Alongside
 - **Contact:** How to get in touch with me.
 
 ## Featured Posts
-
+- **Coming soon!**
 - [Integrating AI in Chemical Engineering](blog/integrating-ai-in-chemical-engineering)
 - [Python for Chemical Engineers: A Beginner's Guide](blog/python-for-chemical-engineers)
 - [Understanding Machine Learning Algorithms](blog/understanding-machine-learning-algorithms)
 
-## Featured Projects
 
+## Featured Projects
+- **Coming soon!**
 - **Chemical Process Simulation:** A project simulating chemical processes using Python. [View Project](projects/chemical-process-simulation)
 - **AI-Powered Quality Control:** An AI model for quality control in chemical manufacturing. [View Project](projects/ai-powered-quality-control)
 - **Personal Portfolio Website:** My personal website built with Jekyll. [View Project](projects/personal-portfolio-website)

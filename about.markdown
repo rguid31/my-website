@@ -15,12 +15,12 @@ I have a background in chemical engineering and a strong interest in technology,
 ## Education
 
 - **Bachelor of Science in Chemical Engineering**
-  - University of Technology, 2014 - TBD
+  - Louisiana State University A&M, 2014 - TBD
 
 ## Skills
 
 - **Programming Languages:** JavaScript, HTML, CSS, VBA, Fortran
-- **Tools:** Git, Visual Studio Code
+- **Tools:** Git, Visual Studio Code, Atom
 - **Build and Server** Jekyll
 
 ## Projects

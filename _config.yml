@@ -23,14 +23,34 @@ email: inquireryan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Explore Ryan Guidry's comprehensive CV and discover a detailed overview of my professional journey. This site showcases my skills, experiences, and accomplishments in an easy-to-navigate format. Whether you're looking to understand my career trajectory, evaluate my expertise, or simply connect, you'll find all the information you need right here.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http//rmguidry.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ryne_guidry
-github_username:  rguid31
+url: "http//www.rmguidry.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  social_links: true
+  navigation:
+    - name: "Home"
+      link: "/"
+    - name: "About"
+      link: "/about/"
+    - name: "Resume"
+      link: "/resume/"
+    - name: "Blog"
+      link: "/blog/"
+    - name: "Contact"
+      link: "/contact/"
+social:
+  twitter_username: https://twitter.com/ryne_guidry
+  github_username:  https://github.com/rguid31
+  linkedin: https://linkedin.com/in/ryanguidry14
+
+markdown: kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
